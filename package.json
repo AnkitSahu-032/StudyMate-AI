@@ -1,0 +1,1 @@
+{"name":"studymate-ai","version":"1.0.0","private":true,"scripts":{"start":"node server.js"},"dependencies":{"ask-sdk-core":"^2.14.0","express":"^4.21.2"}}
