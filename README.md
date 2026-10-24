@@ -34,6 +34,45 @@ The web app is a **working offline-style prototype**, not an LLM-powered AI prod
 - Add a suitable open-source LICENSE if required by hackathon rules.
 - Record a truthful demo video of what actually works.
 - Submit the project through Devpost before the deadline.
+# 🎓 StudyMate AI
+
+### 📚 Study Smarter • Stay Focused • Learn Better
+
+![Node.js](https://img.shields.io/badge/Node.js-Express-green?logo=node.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-CSS3-orange?logo=html5)
+![License](https://img.shields.io/badge/License-Not%20Specified-lightgrey)
+![Deployment](https://img.shields.io/badge/Deployment-Render-blue)
+
+**StudyMate AI** is a responsive, local-first student productivity and voice learning application developed as a prototype for the **Amazon Developer Hackathon**.
+
+It helps students organize notes, generate summaries, practice recall questions, manage study tasks, and stay focused using a Pomodoro timer.
+
+The project also includes a separate Amazon Alexa custom skill starter.
+
+### 🌐 Live Demo
+
+**🚀 [Launch StudyMate AI](https://studymate-ai-tqr6.onrender.com)**
+
+**💻 [View Source Code](https://github.com/AnkitSahu-032/StudyMate-AI)**
+
+---
+
+## ✨ Key Features
+
+### 📝 1. Smart Notes Summarization
+
+* Summarize lengthy study notes.
+* Identify important sentences using keyword-frequency scoring.
+* Quickly revise essential concepts.
+* Works without external AI APIs.
+
+### 🧠 2. Recall Questions
+
+* Generate study questions from notes.
+* Practice active recall.
+* Use fill-in-the-blank questions.
+* Reveal answers for
 
 ## Demo commands
 
