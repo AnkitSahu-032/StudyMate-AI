@@ -11,7 +11,7 @@ npm install
 npm start
 ```
 
-Open http://localhost:3000
+Open[ http://localhost:3000](https://studymate-ai-tqr6.onrender.com/)
 
 The web app is a **working offline-style prototype**, not an LLM-powered AI product: summarization uses keyword-frequency scoring; quizzes use recall prompts; voice uses browser speech APIs. Data is saved in localStorage. No cloud account or API key required.
 
